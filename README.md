@@ -1,2 +1,2 @@
-# broomstick-chase-game
-Minigame where Player chases a golden ball on a broomstick while dodging flying metal balls and opposing players
+# hp-seeker-game
+Mini Quidditch game where Harry chases a snitch while dodging bludgers and Slytherin chasers
